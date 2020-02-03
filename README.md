@@ -1,8 +1,10 @@
-# Web App From Scratch @cmda-minor-web 1819
+# AfvalScraper
 
-In this course you will learn to build a web application without frameworks or unnecessary libraries, but with vanilla HTML, CSS & JavaScript as much as possible. The end result is a modular, single page web app (SPA). Data will be retrieved from an external API of your choice, manipulated and finally shown in the UI of the App. You will learn different ways to structure code and develope your own coding style. With the gained knowledge you will be able to build interactive prototypes, based on real data. Also you will gain a better understanding of the how API's, frameworks and libraries work.
+Met de afvalscraper app kunnen bewoners van de gemeente Amsterdam in zien hoe vol de afvalcontainers in de omgeving zijn waardoor men niet onnodig naar een overvolle afvalcontainer hoeven te lopen.
+Daarnaast zal de app ook gebruikt kunnen worden door ophaalbedrijven van de afvalcontainers zodat zij efficienter en milieubewuster te werk kunnen.
 
-## Learning goals
+
+## Eduatieve doelen
 
 * _You can add structure to your code by applying patterns. You can defend the choice for the chosen patterns_
 * _You can retrieve data, manipulate it and dynamically convert it to html elements using templating_
@@ -11,17 +13,14 @@ In this course you will learn to build a web application without frameworks or u
 
 [Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjZGWGPC_RMvTMry8YW5XOM79GEIdgS7I5JlOe6OeeOUdmv7ok1s9jQhzojNE4AsyzgL-jJCbRj1LN/pubhtml?gid=0&single=true)
 
-## Program
+### Week 1 - Data visualisation while scraping.
 
-### Week 1 - Hello API 🐒
+Doelstelling: Data ontvangen vanuit de API en parsen als dat van toepassing is. Daarnaast een visualisatie maken voor de afvalcontainers.
 
-Goal: Retrieve data from an API and render it in an overview page.
+[Demo: Week1](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-1.md) - in process!!
 
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-1.md)
 
-[Slides](https://drive.google.com/open?id=1Rjl9xqXoKniQSRJPdkU1O5YwWC33SJK8KiV0a-H_xZU)
-
-### Week 2 - Design and Refactor 🛠
+<!-- ### Week 2 - Design and Refactor 🛠
 
 Goal: Design the web app. Add routes and states. Rendering detail page.
 
@@ -36,7 +35,14 @@ Manipulate data. Split code into modules. Reflect on end result
 
 [Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-3.md)
 
-[Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y)
+[Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y) -->
+
+## Applicatie
+
+### Installatie
+
+### Externe producten
+
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
