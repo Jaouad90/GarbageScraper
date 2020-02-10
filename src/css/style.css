@@ -1,0 +1,21 @@
+.garbage-container {
+    display: flex;
+}
+.garbage-image{
+
+}
+.garbage-text-container{
+
+}
+.garbage-text-container > .garbage-text{
+    color: grey;
+    border: 1px solid red;
+}
+.garbage-text-container > .garbage-text:hover{
+    color: black;
+    border: 1px solid blue;
+
+}
+.garbage-icon{
+
+}
