@@ -13,35 +13,6 @@ Daarnaast zal de app ook gebruikt kunnen worden door ophaalbedrijven van de afva
 
 [Rubric](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjZGWGPC_RMvTMry8YW5XOM79GEIdgS7I5JlOe6OeeOUdmv7ok1s9jQhzojNE4AsyzgL-jJCbRj1LN/pubhtml?gid=0&single=true)
 
-### Week 1 - Data visualisation while scraping.
-
-Doelstelling: Data ontvangen vanuit de API en parsen als dat van toepassing is. Daarnaast een visualisatie maken voor de afvalcontainers.
-
-[Demo: Week1](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-1.md) - in process!!
-
-
-<!-- ### Week 2 - Design and Refactor 🛠
-
-Goal: Design the web app. Add routes and states. Rendering detail page.
-
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-2.md)
-
-[Slides](https://drive.google.com/open?id=1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc)
-
-### Week 3 - Wrapping up 🎁
-
-Goal:
-Manipulate data. Split code into modules. Reflect on end result
-
-[Excercises](https://github.com/cmda-minor-web/web-app-from-scratch-1920/blob/master/course/week-3.md)
-
-[Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y) -->
-
-## Applicatie
-
-### Installatie
-
-### Externe producten
 
 ## UML (light version of the 4+1 kruchter model)
 
@@ -54,7 +25,7 @@ Feedback needed!
 Feedback needed!
 
 ### Use case diagram
-U
+
 ### Sequence diagram
 
 
