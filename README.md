@@ -43,6 +43,21 @@ Manipulate data. Split code into modules. Reflect on end result
 
 ### Externe producten
 
+## UML (light version of the 4+1 kruchter model)
+
+### Class diagram
+![ClassDiagram](https://user-images.githubusercontent.com/8874697/74514037-1e03f880-4f0c-11ea-972e-8f420ebf25b6.jpg)
+Feedback needed!
+
+### Activity diagram
+![ActivityDiagram](https://user-images.githubusercontent.com/8874697/74514084-32e08c00-4f0c-11ea-82cf-c446a9e275e1.jpg)
+Feedback needed!
+
+### Use case diagram
+U
+### Sequence diagram
+
+
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
