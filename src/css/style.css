@@ -1,21 +1,29 @@
-.garbage-container {
-    display: flex;
-}
-.garbage-image{
-
-}
-.garbage-text-container{
-
-}
-.garbage-text-container > .garbage-text{
-    color: grey;
+body {
+    width: 80%;
     border: 1px solid red;
+    text-align: center;
 }
-.garbage-text-container > .garbage-text:hover{
-    color: black;
-    border: 1px solid blue;
 
+body li {
+    list-style-type: none;
 }
-.garbage-icon{
 
+[data-route~=overview] {
+    border: 1px solid orange;
+    margin: 2%;
+}
+
+.garbage-box-overview {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.garbage-box-detail {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.garbage-container {
+    flex: 1 10%;
+    border: 1px solid green;
 }
