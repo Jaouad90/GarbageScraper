@@ -17,12 +17,11 @@ Daarnaast zal de app ook gebruikt kunnen worden door ophaalbedrijven van de afva
 ## UML (light version of the 4+1 kruchter model)
 
 ### Class diagram
-![ClassDiagram](https://user-images.githubusercontent.com/8874697/74514037-1e03f880-4f0c-11ea-972e-8f420ebf25b6.jpg)
-Feedback needed!
+![ClassDiagram](https://user-images.githubusercontent.com/8874697/75555349-57745200-5a3c-11ea-96a4-011f0695d9bd.jpg)
+
 
 ### Activity diagram
 ![ActivityDiagram](https://user-images.githubusercontent.com/8874697/74514084-32e08c00-4f0c-11ea-82cf-c446a9e275e1.jpg)
-Feedback needed!
 
 ### Use case diagram
 
