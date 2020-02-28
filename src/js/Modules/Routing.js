@@ -1,4 +1,4 @@
-import { Controller } from "./Modules/Controller.js";
+import { Controller } from "./Controller.js";
 
 export const routes = () =>
 {  

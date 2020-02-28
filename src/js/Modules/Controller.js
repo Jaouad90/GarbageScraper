@@ -1,6 +1,6 @@
-import { GarbageScraper, Endpoints, MockupDates } from "./Modules/Api.js";
-import { templateEngine } from "./Modules/TempEngine.js";
-import { distinctResults } from "./Modules/JsonCleaner.js";
+import { GarbageScraper, Endpoints, MockupDates } from "./Api.js";
+import { templateEngine } from "./TempEngine.js";
+import { distinctResults } from "./JsonCleaner.js";
 
 export const Controller = (id) => {
   //hardcoded objects
